@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "descricao": "Calcular intervalo 1 finalizado",
+    "inicio": 0,
+    "fim": 500,
+    "status": "concluido",
+    "resultado": [
+      10,
+      20,
+      30
+    ]
+  }
+]

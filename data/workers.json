@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nome": "Worker-01-Pro",
+    "ip": "192.168.1.100",
+    "porta": 8081,
+    "status": "ocupado",
+    "capacidadeCores": 8
+  }
+]
